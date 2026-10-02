@@ -62,5 +62,3 @@ StudySync-AI/
 
 ---
 
-3. Go to **Repository Settings** → **Pages** → Source: **Deploy from branch** (`main` / root).
-4. Your website will be live immediately at `https://<username>.github.io/StudySync-AI/`
